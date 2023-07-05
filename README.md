@@ -1,5 +1,7 @@
 # linux-use-snippets (in no particular order)
 
+These are snippets I have used as a computational biogist in my everyday work.
+
 - #### remove all files starting with a certain string in Linux
 `find  . -name 'name*' -exec rm {} \;`
 
