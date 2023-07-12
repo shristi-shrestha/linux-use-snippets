@@ -23,6 +23,10 @@ for f in *.gz; do
     gzip -t $f
 done
 ```
+
+- #### open .gz  files
+```gzip -d filename.gz```
+
 - ####  To check file permission and file list
 ```ls -lrt```
 - #### To give right to the group to read and edit
